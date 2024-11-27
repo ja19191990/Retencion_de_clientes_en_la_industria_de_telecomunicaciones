@@ -1,0 +1,22 @@
+dict_df = {
+    'Customer_ID': 'object',
+    # 'Begin_Date': 'datetime',
+    'End_Date': 'object',
+    'Type': 'object',
+    'Paperless_Billing': 'object',
+    'Payment_Method': 'object',
+    'Monthly_Charges': 'float64',
+    'Total_Charges': 'float64',
+    'Gender': 'object',
+    'Senior_Citize': 'object',
+    'Partner': 'object',
+    'Dependents': 'object',
+    'Multiple_Lines': 'object',
+    'Internet_Service': 'object',
+    'Online_Security': 'object',
+    'Online_Backup': 'object',
+    'Device_Protection': 'object',
+    'Tech_Support': 'object',
+    'Streaming_TV': 'object',
+    'Streaming_Movies': 'object'
+}
