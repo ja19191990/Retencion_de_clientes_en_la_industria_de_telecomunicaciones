@@ -1,2 +1,2 @@
 # Diccionario generado automáticamente para features_upsampled_ord
-dict_features_upsampled_ord = {'End_Date': 'float64'}
+dict_features_upsampled_ord = {'Type': 'float64', 'Paperless_Billing': 'float64', 'Payment_Method': 'float64', 'Monthly_Charges': 'float64', 'Total_Charges': 'float64', 'Gender': 'float64', 'Senior_Citizen': 'float64', 'Partner': 'float64', 'Dependents': 'float64', 'Multiple_Lines': 'float64', 'Internet_Service': 'float64', 'Online_Security': 'float64', 'Online_Backup': 'float64', 'Device_Protection': 'float64', 'Tech_Support': 'float64', 'Streaming_TV': 'float64', 'Streaming_Movies': 'float64', 'Year': 'float64', 'Month': 'float64', 'Day': 'float64', 'dow': 'float64'}

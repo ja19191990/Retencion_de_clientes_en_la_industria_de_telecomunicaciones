@@ -1,6 +1,5 @@
 dict_df = {
     'Customer_ID': 'object',
-    # 'Begin_Date': 'datetime',
     'End_Date': 'object',
     'Type': 'object',
     'Paperless_Billing': 'object',
