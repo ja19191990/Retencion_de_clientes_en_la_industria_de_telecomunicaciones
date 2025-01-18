@@ -3,3 +3,4 @@ Telecom, a company that provides streaming, internet and telephone services, wan
 
 <!-- TODO Poner más detalles en el readme. Específicamente, cómo ejecutar el proyecto y cuál es el output -->
 <!-- TODO Agregar requirements.txt -->
+Este proyecto fue realizado utilizando Python 3.11.5
